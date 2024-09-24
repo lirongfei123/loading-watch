@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/lirongfei123/loading-watch#readme",
   "devDependencies": {
-    "rollup": "^2.7.2"
+    "rollup": "^3.29.5"
   }
 }
